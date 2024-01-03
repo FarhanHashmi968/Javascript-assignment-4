@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    background-color: yellow;
+    width: 40vw;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px pink;
+}
+
+h2 {
+    color: brown;
+}
