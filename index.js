@@ -162,14 +162,3 @@ else {
 //     console.log(a + "*" + i + "=" + a * i)
 // }
 
-
-
-// let a = 1444;
-// let count = 0;
-// for (let n = a; n > 0; n = Math.floor(n / 10)) {
-//     count++;
-// }
-
-// console.log(count)
-
-// console.log(Math.floor(4/10))
